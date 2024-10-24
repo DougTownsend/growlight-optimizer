@@ -1,0 +1,2 @@
+ffmpeg -framerate 10 -i %08d.png -vf tpad=stop_mode=clone:stop_duration=8 output.mp4
+

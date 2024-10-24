@@ -1,0 +1,54 @@
+Washer tray and locking casters:
+https://www.lowes.com/pd/CAMCO-WM-Drain-Pan-30-inx-32-in-OD-w-PVC-Fitting-Graphite/1002829134
+https://www.lowes.com/pd/Style-Selections-4-Pack-4-in-Rubber-Swivel-Casters/999990398
+
+Thermocouple:
+https://digilent.com/shop/pmod-tc1-k-type-thermocouple-module-with-wire/
+
+Buck converter:
+https://www.digikey.com/en/products/detail/texas-instruments/LMR51430XFDDCR/17878356
+
+DIP Switch:
+($1.97): https://www.mouser.com/ProductDetail/611-BD08
+
+STM32 Dev Board:
+($10.98): https://www.mouser.com/ProductDetail/511-NUCLEO-L011K4
+
+Power Supply (24V and 15V):
+https://www.digikey.com/en/products/detail/mean-well-usa-inc/LRS-150-36/7705013
+150Watt supply
+288 LEDs
+3.6A max at 150mA per LED
+avg 18 LED per board
+https://www.mouser.com/ProductDetail/MEAN-WELL/LPV-150-48
+https://www.digikey.com/en/products/detail/mean-well-usa-inc/LPV-150-36/7704985 
+https://www.mouser.com/ProductDetail/MEAN-WELL/LPVL-150-24
+https://www.mouser.com/ProductDetail/MEAN-WELL/ELG-150-36
+https://www.mouser.com/ProductDetail/MEAN-WELL/ELG-150-48A-3YA probably this one or the one before
+https://www.mouser.com/ProductDetail/MEAN-WELL/ELG-150-36A?qs=MzdiiTx5rGzcjw%2FP2NvGIA%3D%3D
+https://www.mouser.com/ProductDetail/MEAN-WELL/LPV-100-36?qs=rBrhZj%252BuXXr9w3ntxcNeIw%3D%3D
+use LPVL-150-24
+
+
+($19.28) https://www.digikey.com/en/products/detail/mean-well-usa-inc/LRS-100-24/7705008
+($5) Terminal cover https://www.amazon.com/TBC-07-Terminal-Block-Cover-Supplies/dp/B06W57X7TX
+($4.67) Plug with toggle: https://www.digikey.com/en/products/detail/adam-tech/IEC-GS-1-100/9831135
+
+Use 14 gauge romex for supply to board
+
+Constant current:
+($0.3356 * 28 = $9.40) IC: https://www.digikey.com/en/products/detail/infineon-technologies/BCR421UE6327HTSA1/2270479
+($0.104 * 28 = $2.92) Rext (150mA): https://www.digikey.com/en/products/detail/vishay-dale/CRCW08055R60FKEAHP/2226719
+($0.059 * 28 = $1.65) Rext (100mA): https://www.digikey.com/en/products/detail/vishay-dale/CRCW12069R31FKEA/1961876
+($0.023 * 28 = $0.64) Rext (65mA): https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF1206FT1K00/1759616
+Connecting the 65mA and 100mA resistors in parallel makes 147mA
+
+LED: LM301H EVO 4000K
+($0.1503 * 224 = $33.67): https://www.digikey.com/en/products/detail/samsung-semiconductor-inc/SPMWHD32AMH0XAT0PT/16609125
+
+#10 mchine screws
+3/16 aluminum washers as spacers
+
+Silicone conformal coating
+Either mg chemical or techspray fine-l-koat led
+
